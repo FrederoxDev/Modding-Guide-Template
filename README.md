@@ -1,0 +1,1 @@
+# Mod Template for FrederoxDev/Bedrock-Modding-Guide
